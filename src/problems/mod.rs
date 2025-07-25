@@ -1,0 +1,9 @@
+pub mod anagram;
+pub mod check_prime;
+pub mod count_vowels;
+pub mod fibanocci;
+pub mod intermediate;
+pub mod max_list;
+pub mod palindrome;
+pub mod reverse_words;
+pub mod sum_degits;
