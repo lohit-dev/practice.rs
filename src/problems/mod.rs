@@ -3,6 +3,7 @@ pub mod check_prime;
 pub mod count_vowels;
 pub mod fibanocci;
 pub mod intermediate;
+pub mod level_one;
 pub mod max_list;
 pub mod palindrome;
 pub mod reverse_words;
